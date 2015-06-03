@@ -30,7 +30,7 @@ parvec = c(b=b, bi=bi, mn=mn, e=e, ei=ei, beta=beta, P=P, a=a, c=c, mx=mx)
 
 Ns0 = 10
 Ni0 = 0
-X0 = 100
+X0 = 0
 
 y0 = c(Ns=Ns0, Ni=Ni0, X=X0)
 
